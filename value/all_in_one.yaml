@@ -496,7 +496,7 @@ ingress:
     enabled: false
 
 spaceone-initializer:
-  enabled: true
+  enabled: false
   image:
       name: spaceone/spacectl
       version: 1.11.0.5
